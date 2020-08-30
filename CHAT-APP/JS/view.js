@@ -74,12 +74,12 @@ view.setActiveScreen = (screenName) => {
 
 
             })
-            // updateFromDatabase(0)
+             updateFromDatabase(0)
             // let leng=updateFromDatabase(0)
-            setInterval(() => {
-               updateFromDatabase()
+//             setInterval(() => {
+//                updateFromDatabase()
                 
-            }, 5000);
+//             }, 5000);
 
 
             break;
